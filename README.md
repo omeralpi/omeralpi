@@ -8,3 +8,4 @@ I enjoy developing `open-source` projects, creating `minimal` and `aesthetic` in
 
 ### My Side Projects
 - [Mailcatch.app](https://mailcatch.app)
+- [Seolly.com](https://seolly.com)
